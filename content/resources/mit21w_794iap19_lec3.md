@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Source Synthesis: Revealing Patterns and Trends'
-type: OCWFile
 uid: 84518019-10d7-7afa-2277-2a7b6928f039
 ---

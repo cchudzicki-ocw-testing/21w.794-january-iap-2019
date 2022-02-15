@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: Genre, Rhetorical Situations, Abstracts, Stasis Theory'
-type: OCWFile
 uid: 9edce791-8b4d-cd3e-e4d7-564b8c49437c
 ---
