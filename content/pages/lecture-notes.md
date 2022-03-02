@@ -33,7 +33,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 9edce791-8b4d-cd3e-e4d7-564b8c49437c "Genre, Rhetorical Situations, Abstracts, and Stasis Theory (PDF)" >}}
+{{% resource_link 9edce791-8b4d-cd3e-e4d7-564b8c49437c "Genre, Rhetorical Situations, Abstracts, and Stasis Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 16c1c214-0a32-acb0-b229-247504dc5720 "Reasoning with Sources: Evaluating, Managing, Integrating, and Citing the Work of Others (PDF - 1.5MB)" >}}
+{{% resource_link 16c1c214-0a32-acb0-b229-247504dc5720 "Reasoning with Sources: Evaluating, Managing, Integrating, and Citing the Work of Others (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 84518019-10d7-7afa-2277-2a7b6928f039 "Source Synthesis: Revealing Patterns and Trends (PDF)" >}}
+{{% resource_link 84518019-10d7-7afa-2277-2a7b6928f039 "Source Synthesis: Revealing Patterns and Trends (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link a55a0e94-c987-d420-299b-bd84d425b824 "Generating Texts: How Understanding Genre and Generic Language Patterns Helps Us Compose (PDF)" >}}
+{{% resource_link a55a0e94-c987-d420-299b-bd84d425b824 "Generating Texts: How Understanding Genre and Generic Language Patterns Helps Us Compose (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 607e0d51-69c8-1edb-a06e-1fb0c8e42b3e "Revision (PDF)" >}}
+{{% resource_link 607e0d51-69c8-1edb-a06e-1fb0c8e42b3e "Revision (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

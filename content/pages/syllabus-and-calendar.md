@@ -29,7 +29,7 @@ Assignments
 *   Literature review of recent research
 *   Oral presentation of a genre analysis
 
-For more detail, see the {{< resource_link ff4de010-3d5f-6bb8-2565-7cc8b9c2808c "Assignments" >}} section.
+For more detail, see the {{% resource_link ff4de010-3d5f-6bb8-2565-7cc8b9c2808c "Assignments" %}} section.
 
 Additional Course Requirements
 ------------------------------
